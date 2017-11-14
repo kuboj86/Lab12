@@ -1,0 +1,7 @@
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\obj\Debug\Lab12RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\obj\Debug\Lab12RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\bin\Debug\Lab12RockPaperScissors.exe.config
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\bin\Debug\Lab12RockPaperScissors.exe
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\bin\Debug\Lab12RockPaperScissors.pdb
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\obj\Debug\Lab12RockPaperScissors.exe
+C:\Users\Me\documents\visual studio 2017\Projects\Lab12RockPaperScissors\Lab12RockPaperScissors\obj\Debug\Lab12RockPaperScissors.pdb
